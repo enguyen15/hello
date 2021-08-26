@@ -12,6 +12,8 @@
 
      printf("Elizabeth Nguyen!!\n");
      printf("My major is Computer Science\n");
+     printf("Tate Koziol!\n");
+     printf("Computer Engineering\n");
 
      return 0;
  }
